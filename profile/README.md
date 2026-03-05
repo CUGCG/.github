@@ -30,29 +30,31 @@ Applications include:
 
 ---
 
-## 📄 Selected Publications
+## 📄 Publications
 
-Our group has published **40+ high-quality papers**, including **CCF-A conferences and SCI Q1 journals**. :contentReference[oaicite:1]{index=1}  
+Our group has published **40+ high-quality papers** in top conferences and journals in computer vision, computer graphics, and geometric processing.
 
-Some representative papers include:
+### 🏆 CCF-A Publications
+
+- **Guiding Point Cloud Denoising with Learned Structural Priors**  
+  Chuchen Guo, Zheng Liu*, Ying He  
+  *AAAI 2026 (CCF A)*
+
+- **You Should Learn to Stop Denoising on Point Clouds in Advance**  
+  Chuchen Guo, Weijie Zhou, Zheng Liu*, Ying He  
+  *AAAI 2025 (CCF A)*
+
+- **Deterministic Point Cloud Diffusion for Denoising**  
+  Zheng Liu, Zhenyu Huang, Maodong Pan, Ying He  
+  *IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025 (CCF A, SCI Q1)*
 
 - **PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering**  
-  *IEEE Transactions on Visualization and Computer Graphics (TVCG), 2023*
+  Zheng Liu, Yaowu Zhao, Sijing Zhan, Yuanyuan Liu, Renjie Chen, Ying He  
+  *IEEE Transactions on Visualization and Computer Graphics (TVCG), 2023 (CCF A, SCI Q1)*
 
 - **Document Image Shadow Removal Guided by Color-Aware Background**  
-  *CVPR 2023*
-
-- **Robust and Accurate Feature Detection on Point Clouds**  
-  *Computer-Aided Design, 2023*
-
-- **Facial Image Shadow Removal via Graph-based Feature Fusion**  
-  *Computer Graphics Forum, 2023*
-
-- **BEMF-Net: Semantic Segmentation of Large-Scale Point Clouds via Bilateral Neighbor Enhancement and Multi-Scale Fusion**  
-  *Remote Sensing, 2023*
-
-- **Accurate and Complete Line Segment Extraction for Large-Scale Point Clouds**  
-  *International Journal of Applied Earth Observation and Geoinformation, 2024*
+  Ling Zhang, Yinghao He, Qing Zhang, Zheng Liu, Xiaolong Zhang, Chunxia Xiao  
+  *CVPR 2023 (CCF A)*
 
 More publications can be found on the official homepage:  
 🔗 https://grzy.cug.edu.cn/ZhengLiu/zh_CN/index.htm
