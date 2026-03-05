@@ -1,4 +1,4 @@
-# CUGCG Research Group
+# 🧠 CUGCG Research Group
 
 Welcome to the **CUGCG Research Group**.
 
@@ -9,62 +9,62 @@ Our group focuses on research in **3D vision, computer graphics, and deep learni
 
 ---
 
-## Research Areas
+## 🔬 Research Areas
 
 Our research interests include:
 
-- 3D Deep Learning
-- Geometry Processing
-- Computer Graphics
-- 3D Vision
-- Point Cloud Processing
-- Digital Twin and Real-World 3D Modeling
+- 🧠 3D Deep Learning  
+- 📐 Geometry Processing  
+- 🎨 Computer Graphics  
+- 👁️ 3D Vision  
+- ☁️ Point Cloud Processing  
+- 🌍 Digital Twin and Real-World 3D Modeling  
 
 These topics are widely used in applications such as:
 
-- Autonomous driving
-- Smart manufacturing
-- Digital twins
-- Real-world 3D reconstruction
-- Intelligent perception systems
+- 🚗 Autonomous Driving  
+- 🏭 Smart Manufacturing  
+- 🌐 Digital Twins  
+- 🏗️ Real-World 3D Reconstruction  
+- 🤖 Intelligent Perception Systems  
 
 ---
 
-## Publications
+## 📄 Publications
 
 Our group has published **40+ high-quality academic papers**, including papers in:
 
-- CCF A conferences
-- Top journals in computer graphics and vision
-- SCI Q1 journals
+- 🏆 CCF A conferences  
+- 📚 Top journals in computer graphics and computer vision  
+- 🧾 SCI Q1 journals  
 
 Students in our group are encouraged and supported to publish research papers in top venues and pursue academic or industrial careers.
 
 ---
 
-## Open Source Projects
+## 🚀 Open Source Projects
 
 This GitHub organization hosts open-source research code, datasets, and experimental projects developed by our group.
 
 Example projects include:
 
-- 3D scene understanding
-- geometric deep learning
-- point cloud reconstruction
-- large-scale 3D data processing
+- 🏙️ 3D Scene Understanding  
+- 🧩 Geometric Deep Learning  
+- 🔧 Point Cloud Reconstruction  
+- 📊 Large-Scale 3D Data Processing  
 
 ---
 
-## Contact
+## 📫 Contact
 
-Dr. Zheng Liu  
+**Dr. Zheng Liu**  
 School of Computer Science  
 China University of Geosciences (Wuhan)
 
-Email: liu.zheng.jojo@gmail.com
+✉️ Email: liu.zheng.jojo@gmail.com
 
 ---
 
-## Organization
+## 🏫 Organization
 
-China University of Geosciences (Wuhan)
+**China University of Geosciences (Wuhan)**
